@@ -1,4 +1,21 @@
 
+Thank you Starbucks for Providing the data.
+
+Objective
+To Solve Starbucks's Challenge of finding the right offer to send to its customers using Data Science.
+This will maximize the use of Starbucks marketing strategies and maximize their profit/revenue compared to before when they were sending unpersonalized offers to everyone at the same time using the same offer.
+
+Methodology
+1. Clean the Data
+2. Process the Data using one hot encoding and other methodologies
+3. Explore the Data
+4. Implement Prediction Model
+5. SVD
+6. Evaluation
+7. Creating the recommendation engine based on th data retreived from Recommendation model
+8. Finally recommending offer based on type of customer
+
+Data set
 portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
 profile.json - demographic data for each customer
 transcript.json - records for transactions, offers received, offers viewed, and offers completed
